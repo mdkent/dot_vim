@@ -24,3 +24,5 @@ source ~/.vim/plugins.vim
 source ~/.vim/functions.vim
 " Auto commands.
 source ~/.vim/autocmds.vim
+
+let g:terraform_fmt_on_save = 1

@@ -105,3 +105,5 @@ Plugin 'L9'
 Plugin 'tpope/vim-repeat'
 Plugin 'mattn/webapi-vim'
 Plugin 'xolox/vim-misc'
+
+Plugin 'hashivim/vim-terraform'
